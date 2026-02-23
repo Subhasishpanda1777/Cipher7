@@ -29,13 +29,16 @@ To ensure fairness and track your progress, this hackathon features a strict two
 *Please overwrite the information below with your actual project details before the final evaluation.*
 
 ### Team Name: 
-[Enter your team name]
+[Cipher7]
 
 ### Project Name:
-[Enter your project name]
+[VisionAi]
 
 ### Project Description:
-[Write a brief 1-2 paragraph description of what your project does, the problem it solves, and the technologies used.]
+["VisionAI – Smart Amblyopia Screening & Therapy Platform"
+
+Purpose:
+VisionAI is an AI-powered web platform that helps in early screening and gamified therapy support for Amblyopia (lazy eye) in children. It provides preliminary risk assessment using computer vision and tracks therapy progress through interactive exercises..]
 
 ### Setup & Installation Instructions:
 [Provide clear, step-by-step instructions on how the judges can run your project locally. Include any commands needed to install dependencies and start the application.]
